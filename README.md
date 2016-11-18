@@ -1,1 +1,2 @@
-Ariel is learning git! 
+Ariel is learning git!  
+Showing my skills 
